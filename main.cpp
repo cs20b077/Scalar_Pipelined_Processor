@@ -2,7 +2,6 @@
 using namespace std;
 
 /*
-LAB 8
 Biswadip Mandal (CS20B017)
 Syed Hurmath Arshed (CS20B077)
 */
